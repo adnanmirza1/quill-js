@@ -1,5 +1,11 @@
 # README
 
+Complete Documentation of quill-js is here:
+
+https://www.kohrvid.com/blog/posts/using-quilljs-with-rails-6
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
