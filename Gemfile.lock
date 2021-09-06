@@ -1,9 +1,3 @@
-GIT
-  remote: git://github.com/abhinavmathur/quilljs-rails.git
-  revision: bd877441a4c48333104744e9b482c940ab9815e7
-  specs:
-    quilljs-rails (0.0.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -215,7 +209,6 @@ DEPENDENCIES
   listen (~> 3.3)
   pg
   puma (~> 5.0)
-  quilljs-rails!
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.4, >= 6.1.4.1)
   sass-rails (>= 6)
