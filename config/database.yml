@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  pool: 5
+  username: postgres
+  password: 1234
+
+development:
+  <<: *default
+  database: quil-js-dev
+
+test:
+  <<: *default
+  database: quil-js-test
+
+production:
+  <<: *default
+  database: quil-js-production
